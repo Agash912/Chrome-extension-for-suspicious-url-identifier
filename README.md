@@ -2,8 +2,10 @@
 
 This real-time chatting mobile application lets you chat with your tribe / group seamlessly. And can run on both Android & iOS
 
-### Methodology Followed:
-<img width="301" alt="Screenshot 2022-10-31 at 12 57 34 AM" src="https://user-images.githubusercontent.com/112348271/198897791-55b428b7-f5a3-4074-98d1-b2b9b7acfdc5.png">
+### Methodolog:
+
+<img width="516" alt="Screenshot 2022-10-31 at 1 00 11 AM" src="https://user-images.githubusercontent.com/112348271/198897885-fe0f393d-8444-4ae7-9c89-3439f10d0f5d.png">
+Followed:
 
 
 ### Working Demo:
