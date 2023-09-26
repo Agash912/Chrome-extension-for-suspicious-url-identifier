@@ -1,6 +1,6 @@
 # Chrome Extension for Suspicious URL Identifier
 
-This real-time chatting mobile application lets you chat with your tribe / group seamlessly. And can run on both Android & iOS
+This real-time url identifier lets you informed about the website's safety 
 
 ### Methodology Followed:
 
