@@ -41,5 +41,5 @@ This project utilizes the following resources:
 - [Random Forest Classifier](https://en.wikipedia.org/wiki/Random_forest)
 
 ## License
-This project is licensed under the MIT License - see [LICENSE.md](#) for details.
+This project is licensed under the MIT License - see [LICENSE](#) for details.
 
