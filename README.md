@@ -11,7 +11,7 @@ Harnessing the power of a Random Forest Classifier Algorithm, trained on a compr
 
 
 ## Installation Instructions
-1. Clone or download the 'Chrome Extension' folder from the GitHub repository.
+1. Clone or download the 'Chrome_extension' folder from the GitHub repository.
 2. Open Chrome and navigate to 'chrome://extensions/'.
 3. Toggle 'Developer mode' to on at the top right.
 4. Click 'Load unpacked' and select the extension folder.
